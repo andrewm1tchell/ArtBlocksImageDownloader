@@ -2,7 +2,7 @@
 Use this to bulk download an Art Blocks collection.
 
 Prerequisites:
-Node JS: https://nodejs.dev/en/learn/how-to-install-nodejs/
+Node JS, https://nodejs.dev/en/learn/how-to-install-nodejs/
 
 Open index.js and update the items underlined in Pink:
 <img width="919" alt="image" src="https://github.com/mitchel1doteth/ArtBlocksImageDownloader/assets/5866724/a709cffe-6055-4471-a617-0e75c3bd9636">
