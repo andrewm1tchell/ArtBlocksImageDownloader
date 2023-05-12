@@ -1,4 +1,4 @@
-# ArtBlocksImageDownloader
+# Art-Blocks Image Downloader
 Use this to bulk download an Art Blocks collection.
 
 Open index.js and update the items underlined in Pink:
